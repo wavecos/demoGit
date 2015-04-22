@@ -1,2 +1,4 @@
 este archivo le pertenece a Damaris Palanque
 Palenque Pozo
+vid resta()
+ nro1 -nro2
