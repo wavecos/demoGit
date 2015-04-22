@@ -1,8 +1,8 @@
 este archivo le pertenece a Damaris Palanque
 Palenque Pozo
 
-
-
+vid resta()
+ nro1 -nro2
 
 func suma(a: Int, b: Int) -> c {
 	return a + b
