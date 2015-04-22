@@ -1,2 +1,9 @@
 este archivo le pertenece a Damaris Palanque
 Palenque Pozo
+
+
+
+
+func suma(a: Int, b: Int) -> c {
+	return a + b
+}
