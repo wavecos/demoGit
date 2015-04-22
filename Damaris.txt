@@ -1,4 +1,5 @@
 este archivo le pertenece a Damaris Palanque
 Palenque Pozo
-vid resta()
- nro1 -nro2
+void resta(){
+ result = nro1 -nro2
+ System.out.println("Resultado"+result)}
